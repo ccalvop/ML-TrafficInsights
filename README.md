@@ -26,7 +26,7 @@ En el análisis de datos de tráfico históricos, se aplicará Aprendizaje No Su
 
 El análisis de datos de tráfico históricos puede brindar información valiosa para la planificación y mejora de la infraestructura vial, el diseño de políticas de tráfico y la toma de decisiones en el ámbito del transporte. 
 
-![TrafficInsights_diagram_ML](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/44f33361-e64b-44cc-98ae-b7aa08751214)
+![TrafficInsights_diagram_ML_small](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/551c446d-d0ee-4476-847d-6848b3a5df1e)
 
 ***
 ![underconstruction_ccalvop](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/b9de3820-25a3-45dc-ab38-e65d96460d83)
