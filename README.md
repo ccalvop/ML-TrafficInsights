@@ -1,5 +1,7 @@
 # ML-TrafficInsights
 
+![TrafficInsights_aws](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/325b4ac3-019e-4d11-8b1d-7606dc8fdfcd)
+
 **Objetivo:**
 
 Realizar un análisis de datos históricos de tráfico para identificar patrones y tendencias a lo largo del tiempo mediante técnicas de Aprendizaje No Supervisado.
@@ -23,3 +25,8 @@ Se obtendrán clústeres de comportamientos similares dentro de los datos de tr�
 En el análisis de datos de tráfico históricos, se aplicará Aprendizaje No Supervisado para encontrar patrones ocultos y segmentar los datos en grupos similares. La técnica de clustering, como K-Means, será utilizada para agrupar los datos de tráfico en clústeres basados en características similares. Estos clústeres representarán diferentes comportamientos de tráfico a lo largo del tiempo. Además, si se decide incorporar técnicas de Deep Learning, como CNN o Autoencoders, se podrá lograr una mayor representación de los datos y descubrir patrones más complejos. La combinación de Aprendizaje No Supervisado y, opcionalmente, técnicas de Deep Learning, enriquecerá el análisis y permitirá descubrir conocimientos valiosos en los datos de tráfico históricos.
 
 El análisis de datos de tráfico históricos puede brindar información valiosa para la planificación y mejora de la infraestructura vial, el diseño de políticas de tráfico y la toma de decisiones en el ámbito del transporte. 
+
+![TrafficInsights_diagram_ML](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/44f33361-e64b-44cc-98ae-b7aa08751214)
+
+***
+![underconstruction_ccalvop](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/b9de3820-25a3-45dc-ab38-e65d96460d83)
