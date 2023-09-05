@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/1457c7e7-f25e-42c1-9731-1727d1bedc38" />
+</p>
+
 # ML-TrafficInsights
 
 ![TrafficInsights_aws](https://github.com/ccalvop/ML-TrafficInsights/assets/126183973/325b4ac3-019e-4d11-8b1d-7606dc8fdfcd)
